@@ -3,6 +3,7 @@ This is a collection of projects written by Lauren Mayes. Executible projects wi
 
 
 Executible projects:
+- Micro Servers
 
 Non-Executible Projects:
 - Frogger Clone
