@@ -1,5 +1,5 @@
 /* 
- * Compile using "cc -o client client.c"
+ * Compile using "cc -o Client Client.c"
  */
  
 #include <stdio.h>
