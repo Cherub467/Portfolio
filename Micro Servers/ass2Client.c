@@ -1,9 +1,5 @@
-/* Simple program to demonstrate a basic UDP client.
- * Reads commands from stdin and sends them to the server. 
- * Requests random nouns, adjectives, and verbs as you wish.
- * A "quit" message from the client kills the server gracefully.
- * 
- * Compile using "cc -o madlibclient madlibclient.c"
+/* 
+ * Compile using "cc -o client client.c"
  */
  
 #include <stdio.h>
