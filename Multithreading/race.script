@@ -1,0 +1,65 @@
+Script started on 2021-01-30 18:40:29-07:00
+]0;lauren.mayes@csx:~/cpsc359lauren.mayes@csx:~/cpsc359$ ./racegcc -pthread race.c -o race
+]0;lauren.mayes@csx:~/cpsc359lauren.mayes@csx:~/cpsc359$ gcc -pthread race.c -o race./race[K
+Enter a race length greater than 1: 5
+Enter the amount of hourses, greater than 1: 5
+[3J[H[2J1 
+2 
+3 
+4 
+-5 
+[3J[H[2J-1 
+2 
+3 
+-4 
+-5 
+[3J[H[2J-1 
+-2 
+-3 
+--4 
+--5 
+[3J[H[2J--1 
+--2 
+--3 
+--4 
+--5 
+[3J[H[2J---1 
+--2 
+--3 
+--4 
+---5 
+[3J[H[2J----1 
+---2 
+---3 
+---4 
+----5 
+[3J[H[2J----1 
+---2 
+---3 
+---4 
+----5 
+[3J[H[2J-----1 
+---2 
+---3 
+---4 
+----5 
+[3J[H[2J-----1 
+----2 
+----3 
+----4 
+-----5 
+[3J[H[2J-----1 
+----2 
+-----3 
+-----4 
+-----5 
+[3J[H[2J-----1 
+-----2 
+-----3 
+-----4 
+-----5 
+The final horse rankings are: 1, 5, 3, 4, 2, 
+]0;lauren.mayes@csx:~/cpsc359lauren.mayes@csx:~/cpsc359$ exit
+exit
+
+Script done on 2021-01-30 18:41:02-07:00
