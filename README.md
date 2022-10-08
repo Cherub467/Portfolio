@@ -9,8 +9,8 @@ Non-Executible Projects:
 - Frogger Clone
 
 Business Reports:
-- BTMA333_FinalPaper
+- BTMA333_FinalPaper:
   This is a case analysis report for the Academic Development Specialist, Susan Basudde, from the Haskayne Undergraduate Office and was overseen by Dr. Raymond Patterson. We were tasked with creating a software solution in increse student engagment in the Haskayne School of Business. 
   
-- BTMA457_FinalPaper
+- BTMA457_FinalPaper:
   This is a case analysis report for the Human Resources department of the Calgary Drop-in Center. The case was presented to us by Professor Heggerud, and was a part of a class cases analysis for the Calgary Drop-in Center as a whole. We were tasked with creating a salesforce solution to managing volunteers and employees.
