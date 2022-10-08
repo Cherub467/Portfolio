@@ -4,6 +4,7 @@ This is a collection of computer science projects and Business reports written b
 
 Executible projects:
 - Micro Servers
+- Multithreading
 
 Non-Executible Projects:
 - Frogger Clone
