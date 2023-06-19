@@ -1,3 +1,5 @@
+<h1>Frogger Clone</h1>
+
 Authors: Thanh Hien Nguyen-Mai & Lauren Mayes
 
 Assignment provided by: Dr. Jalal Kawash
