@@ -18,4 +18,4 @@ Business Reports:
 - BTMA457_FinalPaper:
   This is a case analysis report for the Human Resources department of the Calgary Drop-in Center. The case was presented to us by Professor Heggerud, and was a part of a class cases analysis for the Calgary Drop-in Center as a whole. We were tasked with creating a salesforce solution to managing volunteers and employees.
 
-Demo Video recorded and narrated by Shanna: https://drive.google.com/file/d/1BBPA69NFLGCq9Z5nU_gwK-eC9a0IeXVG/view?usp=sharing 
+
