@@ -6,6 +6,7 @@ Executible projects:
 - Micro Servers
 - Multithreading
 - Grid-Passwords Study
+- Various Excel Projects
 
 Non-Executible Projects:
 - Frogger Clone
