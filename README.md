@@ -9,7 +9,7 @@ Executible projects:
 
 Non-Executible Projects:
 - Frogger Clone
-- AR LAnguageBuddy
+- AR LanguageBuddy
 
 Business Reports:
 - BTMA333_FinalPaper:
