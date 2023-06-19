@@ -1,4 +1,4 @@
-AR LanguageBuddy
+<h1>AR LanguageBuddy</h1>
 
 Authors: Shanna Hollingworth, Lauren Mayes, Aaron Gao, Mila Hoogstraat, Sarina Zohdi
 
