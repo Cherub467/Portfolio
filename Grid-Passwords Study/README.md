@@ -1,4 +1,4 @@
-An Evaluation and Implementation of Passcode Strength Analysison Arbitrarily-Sized Grid-Based Graphical Passwords
+<h1>An Evaluation and Implementation of Passcode Strength Analysison Arbitrarily-Sized Grid-Based Graphical Passwords</h1>
 
 Authors/Developers: Lauren Mayes, Riley James, Christopher Kozbia, and Grace Kelly Osena
 
