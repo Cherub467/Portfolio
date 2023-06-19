@@ -5,9 +5,11 @@ This is a collection of computer science projects and Business reports written b
 Executible projects:
 - Micro Servers
 - Multithreading
+- Grid-Passwords Study
 
 Non-Executible Projects:
 - Frogger Clone
+- AR LAnguageBuddy
 
 Business Reports:
 - BTMA333_FinalPaper:
